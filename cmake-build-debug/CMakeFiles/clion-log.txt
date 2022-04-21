@@ -1,0 +1,6 @@
+/snap/clion/189/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/189/bin/ninja/linux/ninja -G Ninja -S /home/giorgi/Desktop/c++/first_imgui -B /home/giorgi/Desktop/c++/first_imgui/cmake-build-debug
+-- Checking for module 'glut'
+--   No package 'glut' found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/giorgi/Desktop/c++/first_imgui/cmake-build-debug
